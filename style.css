@@ -1,0 +1,10 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: #111;
+}
+#board {
+  /* background-color: skyblue; */
+  background-image: url("img/Bg.jpeg");
+}
