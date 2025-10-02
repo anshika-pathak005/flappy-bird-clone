@@ -2,6 +2,7 @@
 
 A simple **Flappy Bird clone** built using **HTML, CSS, and JavaScript (Canvas API)**.  
 Works on both **desktop (keyboard controls)** and **mobile (tap controls)**.  
+### 🔗 [Live Demo](https://sweet-flan-44a388.netlify.app/)
 
 ## 🎮 Features  
 - Smooth bird movement with gravity & jump physics  
